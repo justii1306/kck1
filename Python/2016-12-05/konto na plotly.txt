@@ -1,0 +1,3 @@
+login: wojteksz128
+token: Zw2M9roJ1Kp3YDyURXE3
+haslo: takie na wikamp
